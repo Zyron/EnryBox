@@ -13,3 +13,5 @@ Analysis of table tennis vibration data
 3. Lim inn adressen til kursmateriellet i det øverste feltet.
 4. Trykk "Launch". Vent på mybinder. Det kan ta fra et halvt minutt til ti minutter å kjøre denne prosessen.
 5. Evt. besøk denne linken: https://mybinder.org/v2/gh/Zyron/EnryBox/HEAD
+6. Åpne AnalyzeJSONdata.ipynb: https://mybinder.org/v2/gh/Zyron/EnryBox/9b507b4e90ad6098ff5d0603aa7482324d11f5d5
+(https://hub.gke2.mybinder.org/user/zyron-enrybox-bjkyr84z/notebooks/AnalyzeJSONdata.ipynb)
