@@ -12,4 +12,4 @@ Analysis of table tennis vibration data
 2. Åpne https://mybinder.org/
 3. Lim inn adressen til kursmateriellet i det øverste feltet.
 4. Trykk "Launch". Vent på mybinder. Det kan ta fra et halvt minutt til ti minutter å kjøre denne prosessen.
-5. Evt. besøk denne linken: https://mybinder.org/v2/gh/Zyron/EnryBox
+5. Evt. besøk denne linken: https://mybinder.org/v2/gh/Zyron/EnryBox/HEAD
